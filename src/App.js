@@ -85,7 +85,7 @@ function Result({ correct }) {
             Дякую вам за проходження короткого тесту!<br></br>
             Всього правильних відповідей {correct} из {questions.length}
          </h2>
-         <a href="/">
+         <a href="https://viper456.github.io/react-quiz-app/">
             <button>Спробувати знову</button>
          </a>
       </div>
